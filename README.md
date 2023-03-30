@@ -1,17 +1,13 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" align="center"/>
+<div>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" align="center" width='192'/>
   </br>
   <h1>Всем привет, меня зовут Александр 👋</h1> 
-  <h1>Я web-разработчик 🕸️</h1>
+  <h2>Я web-разработчик 🕸️</h1>
 
   <h3>К чему я стремлюсь 🎯:</h3>
-  </br>
   <p>✍️  Писать чистый и понятный код</p>
-  </br>
   <p>💪  Освоить полулярные фреймворки и библиотеки</p>
-  </br>
   <p>🙌  Работать в сплоченном и сильном коллективе</p>
-  </br>
   <p>🧠  Уметь изначально выбрать оптимальное решение задачи</p>
 
   </br>
@@ -33,18 +29,18 @@
   </div>
 
   </br>
-  <h2 align="center">Моя статистика 📊</h2>
-  <div align="center">
+  <h2>Моя статистика 📊</h2>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrasnAlexandr&layout=compact&theme=vision-friendly-dark"/>
   </div>
-  <div align="center">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=KrasnAlexandr&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
   </div>
 
 
   </br>
-  <h2 align="center">Мои контакты 🤝</h2>
-  <div id="badges" align="center">
+  <h2>Мои контакты 🤝</h2>
+  <div id="badges">
     <a href="https://t.me/KrasnAlex">
       <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="40"/>
     </a>
