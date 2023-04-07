@@ -31,14 +31,16 @@
   </br>
   <h2>Моя статистика 📊</h2>
   <div>
+    <img src="https://www.codewars.com/users/KrasnAlexandr/badges/large"/>
+  </div>
+  </br>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrasnAlexandr&layout=compact&theme=vision-friendly-dark"/>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=KrasnAlexandr&show_icons=true&count_private=true&include_all_commits=true&theme=dark"/>
   </div>
-<!--   <div>
-    <img src="https://www.codewars.com/users/KrasnAlexandr/badges/large"/>
-  </div> -->
+  
 
 
 
