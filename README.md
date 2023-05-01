@@ -45,7 +45,7 @@
 
 
   </br>
-  <h2>Мои контакты 🤝</h2>
+  <h2>Мои контакты 🤝 </h2>
   <div id="badges">
     <a href="https://t.me/KrasnAlex">
       <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="40"/>
